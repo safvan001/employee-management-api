@@ -21,14 +21,6 @@ This API allows you to:
 - ✅ Unit tests for all endpoints
 - ✅ Clean, modular code structure
 
-## Technology Stack
-
-- **Django 4.2.7** - Web framework
-- **Django REST Framework 3.14.0** - REST API framework
-- **djangorestframework-simplejwt 5.3.0** - JWT authentication
-- **django-filter 23.3** - Filtering support
-- **SQLite** - Database (default, can be changed)
-
 ## Project Structure
 
 ```
